@@ -3,7 +3,7 @@ package unchained_test
 import (
 	"fmt"
 
-	"github.com/alexandrevicenzi/unchained"
+	"github.com/dimiro1/unchained"
 )
 
 func ExampleCheckPassword() {

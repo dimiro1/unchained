@@ -5,11 +5,11 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/alexandrevicenzi/unchained/argon2"
-	"github.com/alexandrevicenzi/unchained/bcrypt"
-	"github.com/alexandrevicenzi/unchained/md5"
-	"github.com/alexandrevicenzi/unchained/pbkdf2"
-	"github.com/alexandrevicenzi/unchained/sha1"
+	"github.com/dimiro1/unchained/argon2"
+	"github.com/dimiro1/unchained/bcrypt"
+	"github.com/dimiro1/unchained/md5"
+	"github.com/dimiro1/unchained/pbkdf2"
+	"github.com/dimiro1/unchained/sha1"
 )
 
 // Django hasher identifiers.
